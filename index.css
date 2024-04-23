@@ -1,0 +1,11 @@
+
+h1 {
+    color: navy;
+    font-family: Arial, sans-serif;
+}
+
+#activity {
+    font-size: 20px;
+    font-style: italic;
+    color: darkgreen;
+}
